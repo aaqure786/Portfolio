@@ -12,12 +12,18 @@
         img{
             display: block;
             margin: 8px auto;
-            width: 24px;
+            width: 70px;
             height: auto;
 
             &.sub-logo{
                 width: 50px; 
             }
+        }
+        h4{
+          font-size: 11px;
+          text-align: center;
+          color: white;
+          letter-spacing: 1px;  
         }
     }
     nav{
