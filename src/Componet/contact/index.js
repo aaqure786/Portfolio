@@ -32,10 +32,9 @@ const Contact =()=>{
                     <AnimatedLetters letterClass={letterClass} strArray={['C','o','n','t','a','c','t',' ','m','e']} idx={15}/>
                 </h1>
                 <p>
-                    Quick brown fox jumps over the lazy dog.
-                    Quick brown fox jumps over the lazy dog.
-                    Quick brown fox jumps over the lazy dog.
-                    Quick brown fox jumps over the lazy dog.
+                    I am a front-end developer and looking for opportunity to work with IT companies.
+                    And also looking for individuals to work with them as a freelanceer. If you are interested, 
+                    Contact with me.
                 </p>
                 <div className='contact-form'>
                     <form ref={refForm} onSubmit={sendEmail}>
